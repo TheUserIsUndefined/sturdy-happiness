@@ -1,6 +1,6 @@
-// TODO: we need to add the missing classes!
+package Task1;// TODO: we need to add the missing classes!
 
-// OK, I will add 'Adder' and s31140 will add 'Substractor'.
+// OK, I will add 'Task1.Adder' and s31140 will add 'Task1.Substractor'.
 
 public class Main {
     public static void main(String[] args) {
